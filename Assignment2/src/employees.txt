@@ -1,0 +1,2 @@
+1,Akriti Badyal,CSE,1.0E7
+3,Riya ,CSE,1.0E7
